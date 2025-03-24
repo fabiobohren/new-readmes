@@ -17,7 +17,7 @@ With our Ready-To-Use UI (RTU UI) components, you can integrate the Cordova Docu
 
 💡 For more details about the Scanbot Cordova Document Scanner SDK and Data Capture Modules, please check out our [documentation.](https://docs.scanbot.io/document-scanner-sdk/cordova/introduction/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
 
-## How to run this app
+## How to run this example app?
 
 ### Requirements
 
