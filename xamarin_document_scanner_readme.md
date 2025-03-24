@@ -93,7 +93,7 @@ Besides Xamarin and Xamarin Forms, the Scanbot Document Scanner SDK is also avai
 * [Capacitor & Ionic (Vue.js)](https://github.com/doo/scanbot-sdk-example-ionic-vuejs)
 * [Cordova & Ionic](https://github.com/doo/scanbot-sdk-example-ionic) 
 * [.NET MAUI](https://github.com/doo/scanbot-sdk-maui-example)
-* [JavaScript](https://github.com/doo/scanbot-sdk-example-web
+* [JavaScript](https://github.com/doo/scanbot-sdk-example-web)
 * [React Native](https://github.com/doo/scanbot-sdk-example-react-native)
 * [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms)
 
