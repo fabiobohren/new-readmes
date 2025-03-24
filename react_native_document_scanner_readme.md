@@ -30,6 +30,7 @@ Testing on an actual device is essential, so ensure you have one available, for 
 ```
 # Install the required dependencies
 yarn install
+
 # OR using npm
 npm install
 ```
@@ -100,7 +101,7 @@ yarn run clean
 
 The Scanbot React Native Document Scanner SDK offers the following features:
 
-* **User guidance**: Ease of use is crucial for large user bases. Our on-screen user guidance helps even non-tech-savvy users create perfect scans under any conditions, ensuring crisp scans in all conditions, even with decreased camera brightness. This feature ensures that documents are properly framed and aligned before the scan is taken, ensuring the best quality of the captured image.
+* **User guidance**: Ease of use is crucial for large user bases. Our on-screen user guidance helps even non-tech-savvy users create perfect scans under any conditions, even with decreased camera brightness. This feature ensures that documents are properly framed and aligned before the scan is taken, ensuring the best quality of the captured image.
 
 * **Automatic capture**: The SDK automatically captures the scan when the device camera is optimally positioned over the document. This minimizes blurry or incomplete scans.
 
@@ -121,16 +122,16 @@ The Scanbot React Native Document Scanner SDK offers the following features:
 The Scanbot SDK Data Capture Modules allow you to extract data from a wide range of structured documents and to integrate OCR text recognition capabilities. They include:
 
 #### [MRZ Scanner](https://scanbot.io/data-capture-software/mrz-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) 
-This module allows quick and accurate data extraction from the machine-readable zones on identity documents. It collects all important MRZ data from IDs and passports and presents them as simple key-value pairs, making processing data much easier and reducing the risk of mistakes from manual data entry.
+This module allows quick and accurate data extraction from the machine-readable zones on identity documents. It captures all important MRZ data from IDs and passports and returns it in the form of simple key-value pairs. This is much simpler, faster, and less mistake-prone than manual data entry.
 
 #### [Check Scanner (MICR)](https://scanbot.io/data-capture-software/check-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
-It offers reliable data extraction from international paper checks, capturing check numbers, routing numbers, and account numbers from MICR codes, simplifying workflows and reducing errors for customers and employees.
+The MICR Scanner offers reliable data extraction from international paper checks, capturing check numbers, routing numbers, and account numbers from MICR codes. This simplifies workflows and reduces errors that frustrate customers and employees.
 
 #### [VIN Scanner](https://scanbot.io/data-capture-software/vin-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
-This scanner enables instant capture of vehicle identification numbers (VINs) from trucks or car doors using OCR to convert images into structured data for backend processing. It integrates into mobile or web-based fleet management applications, replacing error-prone manual entry with fast, reliable data extraction.
+The VIN scanner enables instant capture of vehicle identification numbers (VINs) from trucks or car doors. It uses OCR to convert the image of the VIN code into structured data for backend processing. This module integrates into mobile or web-based fleet management applications, enabling you to replace error-prone manual entry with fast, reliable data extraction.
 
 #### Generic Document Recognizer
-Through this feature, our Document Scanner SDK offers document detection and data capture capabilities for a wider range of documents. It accurately identifies and crops various standardized document types including[ German ID cards](https://scanbot.io/data-capture-software/id-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), passports,[ driver's licenses](https://scanbot.io/data-capture-software/german-drivers-license-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites),[ residence permits](https://scanbot.io/data-capture-software/residence-permit-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), and the[ EHIC](https://scanbot.io/data-capture-software/ehic-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites). It uses the Scanbot OCR engine for accurate data field recognition, without requiring additional OCR language files.
+Through this feature, our Document Scanner SDK offers document detection and data capture capabilities for a wider range of documents. It accurately identifies and crops various standardized document types including [German ID cards](https://scanbot.io/data-capture-software/id-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), passports, [driver's licenses](https://scanbot.io/data-capture-software/german-drivers-license-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), [residence permits](https://scanbot.io/data-capture-software/residence-permit-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), and the [EHIC](https://scanbot.io/data-capture-software/ehic-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites). It uses the Scanbot OCR engine for accurate data field recognition, without requiring additional OCR language files.
 
 | ![MRZ Scanner](.images/mrz-scanner.png) | ![VIN Scanner](.images/vin-scanner.png) | ![Check Scanner](.images/check-scanner.png) |
 | :-- | :-- | :-- |
