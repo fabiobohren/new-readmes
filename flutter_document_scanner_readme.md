@@ -39,7 +39,7 @@ Connect a mobile device via USB and run the app.
 
 ### Run the app
 
-#### On Android:
+#### Android:
 
 ```
 flutter run -d <DEVICE_ID>
@@ -47,7 +47,7 @@ flutter run -d <DEVICE_ID>
 
 You can get the IDs of all connected devices via `Flutter devices`.
 
-#### On iOS:
+#### iOS:
 
 Install Pods dependencies:
 
