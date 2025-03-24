@@ -150,6 +150,21 @@ Our pricing model is simple: Unlimited barcode scanning for a flat annual licens
 
 The Scanbot SDK is also available as a native SDK or for most common cross-plattform frameworks:
 
+#### Barcode Scanner SDK
+
+* [Android (native)](https://github.com/doo/scanbot-barcode-scanner-sdk-example-android)
+* [iOS (native)](https://github.com/doo/scanbot-barcode-scanner-sdk-example-ios)
+* [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native)
+* [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
+* [Capacitor & Ionic](https://github.com/doo/scanbot-barcode-scanner-sdk-example-capacitor-ionic)
+* [Cordova & Ionic](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
+* [Compose Multiplatform / KMP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-kmp)
+* [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
+* [UWP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows)
+* [Linux](https://github.com/doo/scanbot-sdk-example-linux)
+
+#### Document Scanner SDK
+
 * [Android](https://github.com/doo/scanbot-sdk-example-android) (native)
 * [iOS](https://github.com/doo/scanbot-sdk-example-ios) (native)
 * [Flutter](https://github.com/doo/scanbot-sdk-example-flutter)
@@ -161,4 +176,3 @@ The Scanbot SDK is also available as a native SDK or for most common cross-platt
 * [React Native](https://github.com/doo/scanbot-sdk-example-react-native)
 * [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin) & [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms)
 
-Our Barcode Scanner SDK additionally also supports [Compose Multiplatform / KMP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-kmp), [UWP](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows) (Windows), and [Linux](https://github.com/doo/scanbot-sdk-example-linux).
