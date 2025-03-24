@@ -34,7 +34,7 @@ cd scripts
 
 Alternatively, you can follow the [manual setup guide](https://docs.scanbot.io/barcode-scanner-sdk/compose/detailed-setup-guide/installation/#ios) for iOS.
 
-Open the project in Android Studio and run it on Android/iOS.Features of the Android Barcode Scanner SDK.
+Open the project in Android Studio and run it on Android/iOS.
 
 ## Features of the Scanbot Barcode Scanner SDK
 
