@@ -17,7 +17,7 @@ The SDK can be implemented into your web app with just a few lines of code and c
 
 💡 For more details about the Scanbot Web SDK, please see our [Barcode Scanner](https://docs.scanbot.io/barcode-scanner-sdk/web/introduction/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) or [Document Scanner](https://docs.scanbot.io/document-scanner-sdk/web/introduction/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) documentation.
 
-## How to run the example app?
+## How to run this example app?
 
 The SDK is a native SDK built for the web via [Emscripten](https://emscripten.org/). It relies on [WebAssembly](https://webassembly.org/) and Camera access via HTML Media Capture API.
 
