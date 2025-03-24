@@ -21,14 +21,14 @@ With our Ready-To-Use UI (RTU UI) components, you can integrate the iOS Document
 ## How to run the example app?
 
 * Clone this repository to a local folder.
-* Open `ClassicComponentsExample.xcodeproj` with Xcode, build and run, a build script will automatically download ScanbotSDK to your project folder if needed
+* Open `ClassicComponentsExample.xcodeproj` with Xcode, build and run. A build script will automatically download ScanbotSDK to your project folder if needed.
 * In case you do not want to automatically download the SDK in the Demo app's target, remove the dependency to the 'Download ScanbotSDK' aggregate target and perform the following steps:
-	* Download the latest Scanbot SDK for iOS from our [docs](https://docs.scanbot.io/document-scanner-sdk/ios/introduction/)
-	* Unzip the downloaded zip file and copy the extracted `ScanbotSDK` folder to your local example app folder (`scanbot-sdk-example-ios/ScanbotSDK`)
-	* For Classical UI components open `ClassicComponentsExample.xcodeproj` with Xcode, build and run
-	* For Document Ready-To-Use UI open `DocumentScannerRTUUIExample.xcodeproj` with Xcode, build and run
-	* For Data Capture Ready-To-Use UI open `DataCaptureRTUUIExample.xcodeproj` with Xcode, build and run
-	* For SwiftUI Components open `SwiftUIComponentsExample.xcodeproj` with Xcode, build and run
+	* Download the latest Scanbot SDK for iOS from our [docs](https://docs.scanbot.io/document-scanner-sdk/ios/introduction/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites).
+	* Unzip the downloaded zip file and copy the extracted `ScanbotSDK` folder to your local example app folder (`scanbot-sdk-example-ios/ScanbotSDK`).
+	* For Classical UI components open `ClassicComponentsExample.xcodeproj` with Xcode, build and run.
+	* For Document Ready-To-Use UI open `DocumentScannerRTUUIExample.xcodeproj` with Xcode, build and run.
+	* For Data Capture Ready-To-Use UI open `DataCaptureRTUUIExample.xcodeproj` with Xcode, build and run.
+	* For SwiftUI Components open `SwiftUIComponentsExample.xcodeproj` with Xcode, build and run.
 
 ## Overview of the Scanbot SDK
 
@@ -65,7 +65,7 @@ The MICR Scanner offers reliable data extraction from international paper checks
 The VIN scanner enables instant capture of vehicle identification numbers (VINs) from trucks or car doors. It uses OCR to convert the image of the VIN code into structured data for backend processing. This module integrates into mobile or web-based fleet management applications, enabling you to replace error-prone manual entry with fast, reliable data extraction.
 
 #### Generic Document Recognizer
-Through this feature, our Document Scanner SDK offers document detection and data capture capabilities for a wider range of documents. It accurately identifies and crops various standardized document types including[ German ID cards](https://scanbot.io/data-capture-software/id-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), passports,[ driver's licenses](https://scanbot.io/data-capture-software/german-drivers-license-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites),[ residence permits](https://scanbot.io/data-capture-software/residence-permit-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), and the[ EHIC](https://scanbot.io/data-capture-software/ehic-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites). It uses the Scanbot OCR engine for accurate data field recognition, without requiring additional OCR language files.
+Through this feature, our Document Scanner SDK offers document detection and data capture capabilities for a wider range of documents. It accurately identifies and crops various standardized document types including [German ID cards](https://scanbot.io/data-capture-software/id-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), passports, [driver's licenses](https://scanbot.io/data-capture-software/german-drivers-license-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), [residence permits](https://scanbot.io/data-capture-software/residence-permit-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), and the [EHIC](https://scanbot.io/data-capture-software/ehic-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites). It uses the Scanbot OCR engine for accurate data field recognition, without requiring additional OCR language files.
 
 | ![MRZ Scanner](.images/mrz-scanner.png) | ![VIN Scanner](.images/vin-scanner.png) | ![Check Scanner](.images/check-scanner.png) |
 | :-- | :-- | :-- |
