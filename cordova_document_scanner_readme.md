@@ -63,13 +63,13 @@ Finally, connect a device via USB and run the app.
 
 ### Running the app
 
-#### Android
+#### Android:
 
 Version 33.0.2 of Android Build Tools is required to run the project. Please install them using Android Studio SDK Tools panel, after checking "Show Package Details".
 
 `ionic cordova run android`
 
-#### iOS
+#### iOS:
 
 `ionic cordova prepare ios`
 
