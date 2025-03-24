@@ -113,7 +113,7 @@ Besides the Compose Multiplatform, the Scanbot Barcode Scanner SDK is also avai
 
 * [Android (native)](https://github.com/doo/scanbot-barcode-scanner-sdk-example-android)
 * [iOS (native)](https://github.com/doo/scanbot-barcode-scanner-sdk-example-ios)
-* [JavaScript (web)](https://github.com/doo/scanbot-barcode-scanner-sdk-example-web)
+* [JavaScript (web)](https://github.com/doo/scanbot-sdk-example-web)
 * [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native)
 * [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
 * [Capacitor & Ionic](https://github.com/doo/scanbot-barcode-scanner-sdk-example-capacitor-ionic)
