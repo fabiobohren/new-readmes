@@ -18,7 +18,7 @@ With our Ready-To-Use UI (RTU UI) components, you can integrate the iOS Document
 
 💡 For more details about the Scanbot Document Scanner SDK and Data Capture Modules, please check out our [documentation.](https://docs.scanbot.io/document-scanner-sdk/ios/introduction/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
 
-## How to run the example app?
+## How to run this example app?
 
 * Clone this repository to a local folder.
 * Open `ClassicComponentsExample.xcodeproj` with Xcode, build and run. A build script will automatically download ScanbotSDK to your project folder if needed.
