@@ -54,7 +54,7 @@ The barcode scanner can also be configured to scan multiple barcodes in successi
 
 Given one or more barcodes, the Barcode Scanner SDK will visually highlight and scan the correct items for your users. It automatically selects the barcode with the right barcode value from your camera feed.
 
-| ![Batch Scanning](.images/batch-scanning.png) | ![Multi Scanning](.images/multi-scanning.png) | ![Find and Pick](.images/find-pick.png) |
+| ![Batch Scanning](.images/android-batch-scanning.png) | ![Multi Scanning](.images/android-multi-scanning.png) | ![Find and Pick](.images/android-find-pick.png) |
 | :-- | :-- | :-- |
 
 ### AR Overlay
