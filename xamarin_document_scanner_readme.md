@@ -29,7 +29,7 @@ The Scanbot Xamarin Document Scanner SDK offers the following features:
 
 * **User guidance**: Ease of use is crucial for large user bases. Our on-screen user guidance helps even non-tech-savvy users create perfect scans.
 
-* **Automatic capture**: The SDK automatically captures the scan when the device is optimally positioned over the document. This reduces the risk of blurry or incomplete document scans compared to manually-triggered capture and ensures reliable document scanning at all times.
+* **Automatic capture**: The SDK automatically captures the scan when the device is optimally positioned over the document. This reduces the risk of blurry or incomplete document scans compared to manually-triggered capture.
 
 * **Automatic cropping**: Our SDK automatically straightens and crops the scans, ensuring high-quality document scans at all times.
 
