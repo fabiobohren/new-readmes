@@ -36,6 +36,8 @@ Alternatively, you can follow the [manual setup guide](https://docs.scanbot.io/b
 
 Open the project in Android Studio and run it on Android/iOS.Features of the Android Barcode Scanner SDK.
 
+## Features of the Scanbot Barcode Scanner SDK
+
 ### Out-of-the-box barcode scanning workflows
 
 The Scanbot Barcode Scanner SDK offers the following scan modes right out of the box in our ready-to-use user interfaces: 
