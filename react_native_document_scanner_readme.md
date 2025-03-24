@@ -52,7 +52,7 @@ cd ios
 bundle exec pod install
 ```
 
-#### Signing
+### Signing
 
 * Open the **workspace** file `ScanbotBarcodeExampleReact.xcworkspace` (not .xcodeproj) from the `iOS` directory in Xcode.
 
@@ -70,7 +70,7 @@ npm run android
 yarn android
 ```
 
-### Step 4: Run on iOS
+### Run on iOS
 
 ```
 # Using npm
