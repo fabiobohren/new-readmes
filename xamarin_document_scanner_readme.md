@@ -75,7 +75,7 @@ The Scanbot SDK examples will run for one minute per session without a license. 
 
 To try the Scanbot Xamarin SDK without the one-minute limit, you can request a free, no-strings-attached [7-day](https://scanbot.io/trial/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) demo license key for your Xamarin project.
 
-You can also try our demo application for the Scanbot Document Scanner SDKs [here.](https://scanbot.io/demo-apps/?_gl=1*lamwe6*_gcl_aw*R0NMLjE3Mzk5NjIyMDEuQ2p3S0NBaUFuOWE5QmhCdEVpd0FiS2c2ZmcxVndNRGdjbmxZMWVodFhsM1N2ZHJKa253ME1ObGphdngxbm1kR3RjVWJNVEtOa1dYTndob0N6cWtRQXZEX0J3RQ..*_gcl_au*MzUwMDgwMTE5LjE3MzczODA3NjQ.*FPAU*MTAyMzYzMjEzLjE3MzczODA3NjM.*_ga*NTg5MTIyMjAxLjE3MzczODA3NjM.*_ga_4ZZ821ELNM*MTc0MDU3ODk2Ni42NC4xLjE3NDA1ODAxMDIuNjAuMC40MTgxODIyODQ.?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
+You can also try our demo application for the Scanbot Document Scanner SDKs [here.](https://scanbot.io/demo-apps/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
 
 ### Pricing
 
