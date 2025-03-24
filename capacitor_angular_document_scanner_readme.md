@@ -125,7 +125,7 @@ The Scanbot SDK examples will run for one minute per session without a license. 
 
 To try the Scanbot Capacitor SDK without the one-minute limit, you can request a free, no-strings-attached [7-day](https://scanbot.io/trial/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) trial license for your example project.
 
-Alternatively, you can try our Scanbot Document Scanner SDK demo application [here.](https://scanbot.io/demo-apps/?_gl=1*lamwe6*_gcl_aw*R0NMLjE3Mzk5NjIyMDEuQ2p3S0NBaUFuOWE5QmhCdEVpd0FiS2c2ZmcxVndNRGdjbmxZMWVodFhsM1N2ZHJKa253ME1ObGphdngxbm1kR3RjVWJNVEtOa1dYTndob0N6cWtRQXZEX0J3RQ..*_gcl_au*MzUwMDgwMTE5LjE3MzczODA3NjQ.*FPAU*MTAyMzYzMjEzLjE3MzczODA3NjM.*_ga*NTg5MTIyMjAxLjE3MzczODA3NjM.*_ga_4ZZ821ELNM*MTc0MDU3ODk2Ni42NC4xLjE3NDA1ODAxMDIuNjAuMC40MTgxODIyODQ.?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
+Alternatively, you can try our Scanbot Document Scanner SDK demo application [here.](https://scanbot.io/demo-apps/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites)
 
 Our pricing model is simple: Unlimited scanning for a flat annual license fee, full support included. There are no tiers, usage charges, or extra fees. [Contact](https://scanbot.io/contact-sales/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) our team to receive your quote and a paid license.
 
