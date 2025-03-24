@@ -64,7 +64,7 @@ Open the **workspace**(!) `ios/Runner.xcworkspace` in Xcode and adjust the *Sign
 
 ### Document Scanner SDK
 
-The Scanbot Flutter Document Scanner Plugin offers the following key document-scanning features: 
+The Scanbot Flutter Document Scanner Plugin offers the following key document scanning features: 
 
 * **User guidance**: Ease of use is critical for large user bases, which is why the SDK provides a consistent user interface that ensures a smooth and intuitive experience for all users. The SDK simplifies document scanning by guiding users through each step, helping even non-tech-savvy users create perfect scans.
 
@@ -95,7 +95,7 @@ The MICR Scanner offers reliable data extraction from international paper checks
 The VIN scanner enables instant capture of vehicle identification numbers (VINs) from trucks or car doors. It uses OCR to convert the image of the VIN code into structured data for backend processing. This module integrates into mobile or web-based fleet management applications, enabling you to replace error-prone manual entry with fast, reliable data extraction.
 
 #### Generic Document Recognizer
-Through this feature, our Document Scanner SDK offers document detection and data capture capabilities for a wider range of documents. It accurately identifies and crops various standardized document types including[ German ID cards](https://scanbot.io/data-capture-software/id-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), passports,[ driver's licenses](https://scanbot.io/data-capture-software/german-drivers-license-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites),[ residence permits](https://scanbot.io/data-capture-software/residence-permit-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), and the[ EHIC](https://scanbot.io/data-capture-software/ehic-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites). It uses the Scanbot OCR engine for accurate data field recognition, without requiring additional OCR language files.
+Through this feature, our Document Scanner SDK offers document detection and data capture capabilities for a wider range of documents. It accurately identifies and crops various standardized document types including [German ID cards](https://scanbot.io/data-capture-software/id-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), passports, [driver's licenses](https://scanbot.io/data-capture-software/german-drivers-license-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), [residence permits](https://scanbot.io/data-capture-software/residence-permit-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites), and the [EHIC](https://scanbot.io/data-capture-software/ehic-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites). It uses the Scanbot OCR engine for accurate data field recognition, without requiring additional OCR language files.
 
 | ![MRZ Scanner](.images/mrz-scanner.png) | ![VIN Scanner](.images/vin-scanner.png) | ![Check Scanner](.images/check-scanner.png) |
 | :-- | :-- | :-- |
