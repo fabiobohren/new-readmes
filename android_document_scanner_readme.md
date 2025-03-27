@@ -13,7 +13,7 @@ This example app shows how to integrate the [Scanbot Document Scanner SDK](https
 
 The Scanbot SDK is a set of high-level APIs that lets you integrate document scanning and data extraction functionalities into your mobile apps and websites. It runs on all common mobile devices and operates entirely offline. No data is transmitted to our or third-party servers.
 
-With our Ready-To-Use UI (RTU UI) components, you can integrate the Android Document Scanner SDK into your app in less than an hour. 
+With our Ready-To-Use UI (RTU UI) components, you can integrate the Android Document Scanner and Data Capture SDK into your app in less than an hour.
 
 💡 For more details about the Scanbot Document Scanner SDK and Data Capture Modules, please check out our [documentation](https://docs.scanbot.io/document-scanner-sdk/android/introduction/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites).
 
