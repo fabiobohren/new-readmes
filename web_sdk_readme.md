@@ -68,8 +68,6 @@ php -S localhost:8000
 
 The Scanbot [Barcode Scanner SDK for the web](https://scanbot.io/barcode-scanner-sdk/web-barcode-scanner/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) allows you to integrate fast and accurate barcode scanning capabilities into your web apps.
 
-The SDK utilizes your device's camera, which can be freely switched. You can also apply various filters to narrow down the results by barcode type or content, with regex pattern support to ensure you only capture the specific barcodes relevant to your application.
-
 Barcodes are scanned in just 0.04 seconds, and scans remain precise even under challenging conditions, including damaged, small, or distant barcodes and low-light environments.
 
 #### Out-of-the-box barcode scanning workflows
